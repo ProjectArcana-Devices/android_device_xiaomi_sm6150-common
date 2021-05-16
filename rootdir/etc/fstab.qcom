@@ -55,4 +55,3 @@ odm                                                                 /odm        
 
 # Fake zram
 /dev/block/zram0                                        none               swap    defaults                                             defaults
-
