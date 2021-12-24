@@ -168,6 +168,9 @@ PRODUCT_PACKAGES += \
 		libsdmutils \
 		libstagefright_enc_common \
 		libtinyxml \
+		libqdMetaData \
+		libqdMetaData.system \
+		libdisplayconfig \
     vendor.qti.hardware.display.allocator-service
 
 PRODUCT_PACKAGES += \
